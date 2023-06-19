@@ -11,7 +11,7 @@ To find out more please visit:
 [👄 Discord](https://discord.com/invite/qh6MWhMJDN)       
 
 [💬 Telegram](https://t.me/hashlipsnft)
-
+                  
 [🐦 Twitter](https://twitter.com/hashlipsnft)
                  
 [ℹ️ Website](https://hashlips.online/HashLips)
