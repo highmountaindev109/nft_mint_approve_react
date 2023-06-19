@@ -15,7 +15,7 @@ To find out more please visit:
 [🐦 Twitter](https://twitter.com/hashlipsnft)
                  
 [ℹ️ Website](https://hashlips.online/HashLips)
-
+         
 # HashLips NFT minting dapp 🔥            
 
 ![](https://github.com/HashLips/hashlips_nft_minting_dapp/blob/main/banner.png)
