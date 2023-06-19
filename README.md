@@ -38,7 +38,7 @@ Make sure you have node.js installed so you can use npm, then run:
 
 ```sh
 npm install
-```
+```           
 
 ## Usage ℹ️
 
