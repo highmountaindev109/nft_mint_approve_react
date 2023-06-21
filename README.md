@@ -114,7 +114,7 @@ After all the changes you can run.
 npm run start
 ```
 
-Or create the build if you are ready to deploy.
+Or create the build if you are ready to deploy.           
 
 ```sh
 npm run build
