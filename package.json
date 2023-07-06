@@ -17,7 +17,7 @@
     "web3-eth-contract": "^1.5.2"
   },
   "author": "Daniel Eugene Botha (HashLips)",
-  "license": "MIT",
+  "license": "MIT",        
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build"
